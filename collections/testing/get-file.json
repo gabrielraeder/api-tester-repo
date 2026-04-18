@@ -1,0 +1,12 @@
+{
+  "id": "e6a5bd2e-0203-4319-a298-46e450353894",
+  "name": "get file",
+  "method": "GET",
+  "url": "",
+  "headers": {},
+  "params": {},
+  "body": "",
+  "bodyType": "none",
+  "authType": "none",
+  "auth": {}
+}
